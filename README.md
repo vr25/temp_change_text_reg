@@ -16,3 +16,5 @@ We provide all the similarity scores for the different methods described in the 
 
 To create the doc2vec model and then use it to find the similar document vectors:
 run ```python3 compute_doc2vec_sim.py``` 
+
+The data file can be found here: [train_docs_sec7.txt](https://zenodo.org/record/4470065)
